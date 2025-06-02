@@ -18,7 +18,7 @@ async function ProductosPage() {
   return (
     <div className="flex flex-col  gap-10 pt-5">
       <div className="flex  justify-between">
-        <h1 className="text-3xl font-bold">Productos por caducar</h1>
+        <h1 className="text-3xl font-bold">Productos por caducarvcyvyitbybiybyvb</h1>
       </div>
       <div className="flex justify-center">
         <Productos data={productos} />
